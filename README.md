@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fabrice-64
-- 👀 I’m interested in becoming a software developper on Python
-- 🌱 I’m currently learning anything linked to Python (rather logical)
-- 💞️ I’m looking to collaborate on topics linked to web scraping once my education program is over
+- 👀 I’m currently preparing a DBA dedicated to AI and Organization Transformation
+- 💞️ I’m looking to collaborate on topics linked to neural networks and AI
 - 📫 How to reach me : per mail fabricejaouen@yahoo.com
 
 <!---
